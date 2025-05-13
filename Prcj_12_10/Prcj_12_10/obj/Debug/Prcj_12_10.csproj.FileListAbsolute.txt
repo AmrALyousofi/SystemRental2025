@@ -1,0 +1,23 @@
+D:\مشاريع\المشاريع\C#\Prcj_12_10\Prcj_12_10\bin\Debug\Prcj_12_10.exe
+D:\مشاريع\المشاريع\C#\Prcj_12_10\Prcj_12_10\bin\Debug\Prcj_12_10.pdb
+D:\مشاريع\المشاريع\C#\Prcj_12_10\Prcj_12_10\obj\Debug\Prcj_12_10.Properties.Resources.resources
+D:\مشاريع\المشاريع\C#\Prcj_12_10\Prcj_12_10\obj\Debug\Prcj_12_10.csproj.GenerateResource.Cache
+D:\مشاريع\المشاريع\C#\Prcj_12_10\Prcj_12_10\obj\Debug\Prcj_12_10.exe
+D:\مشاريع\المشاريع\C#\Prcj_12_10\Prcj_12_10\obj\Debug\Prcj_12_10.pdb
+D:\مشاريع\المشاريع\C#\Prcj_12_10\Prcj_12_10\obj\Debug\Prcj_12_10.MainPag.resources
+D:\مشاريع\المشاريع\C#\Prcj_12_10\Prcj_12_10\obj\Debug\Prcj_12_10.Accounts.Acc1.resources
+D:\مشاريع\المشاريع\C#\Prcj_12_10\Prcj_12_10\obj\Debug\Prcj_12_10.Accounts.CurrancyLatters.resources
+D:\مشاريع\المشاريع\C#\Prcj_12_10\Prcj_12_10\obj\Debug\Prcj_12_10.frmLogin.resources
+D:\مشاريع\المشاريع\C#\Prcj_12_10\Prcj_12_10\obj\Debug\Prcj_12_10.Accounts.AccTotal_Dgv.resources
+D:\مشاريع\المشاريع\C#\Prcj_12_10\Prcj_12_10\obj\Debug\Prcj_12_10.csprojResolveAssemblyReference.cache
+D:\مجلد جديد\مشاريع\المشاريع\C#\Prcj_12_10\Prcj_12_10\obj\Debug\Prcj_12_10.exe
+D:\مجلد جديد\مشاريع\المشاريع\C#\Prcj_12_10\Prcj_12_10\obj\Debug\Prcj_12_10.pdb
+D:\مجلد جديد\مشاريع\المشاريع\C#\Prcj_12_10\Prcj_12_10\bin\Debug\Prcj_12_10.exe
+D:\مجلد جديد\مشاريع\المشاريع\C#\Prcj_12_10\Prcj_12_10\bin\Debug\Prcj_12_10.pdb
+D:\مجلد جديد\مشاريع\المشاريع\C#\Prcj_12_10\Prcj_12_10\obj\Debug\Prcj_12_10.Accounts.Acc1.resources
+D:\مجلد جديد\مشاريع\المشاريع\C#\Prcj_12_10\Prcj_12_10\obj\Debug\Prcj_12_10.Accounts.AccTotal_Dgv.resources
+D:\مجلد جديد\مشاريع\المشاريع\C#\Prcj_12_10\Prcj_12_10\obj\Debug\Prcj_12_10.Accounts.CurrancyLatters.resources
+D:\مجلد جديد\مشاريع\المشاريع\C#\Prcj_12_10\Prcj_12_10\obj\Debug\Prcj_12_10.frmLogin.resources
+D:\مجلد جديد\مشاريع\المشاريع\C#\Prcj_12_10\Prcj_12_10\obj\Debug\Prcj_12_10.MainPag.resources
+D:\مجلد جديد\مشاريع\المشاريع\C#\Prcj_12_10\Prcj_12_10\obj\Debug\Prcj_12_10.Properties.Resources.resources
+D:\مجلد جديد\مشاريع\المشاريع\C#\Prcj_12_10\Prcj_12_10\obj\Debug\Prcj_12_10.csproj.GenerateResource.Cache
